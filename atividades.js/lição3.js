@@ -1,0 +1,16 @@
+let array3 = [];
+let r1 = array3.push("um");
+console.log(r1);
+console.log(array3);
+let r2 = array3.push("dois");
+console.log(r2);
+console.log(array3);
+let r3 = array3.push("três");
+console.log(r3);
+console.log(array3);
+let p1 = array3.pop();
+console.log(p1);
+console.log(array3);
+let p2 = array3.pop();
+console.log(p2);
+console.log(array3);
